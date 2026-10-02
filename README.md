@@ -1,10 +1,10 @@
-## GIT Tutorial
+## dotnet tutorial
 
 ### Initializing repo
 
-To init repo from scratch:
+To create a dotnet project:
 ```
-git init
+dotnet new classlib
 ```
 
 To start working with existing repo:
